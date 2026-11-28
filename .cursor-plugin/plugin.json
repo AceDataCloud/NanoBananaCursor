@@ -1,7 +1,7 @@
 {
   "name": "nano-banana",
-  "displayName": "Nano Banana by Ace Data Cloud",
-  "version": "1.0.1",
+  "displayName": "Nano Banana",
+  "version": "1.0.2",
   "minClientVersions": {
     "cursor": "3.13.0"
   },
